@@ -14,7 +14,7 @@ cycler==0.10.0
 decorator==4.0.11
 idna==2.0
 incremental==16.10.1
-ipython==5.1.0
+ipython==8.10.0
 ipython-genutils==0.1.0
 Jinja2==2.8
 jsonpatch==1.10
